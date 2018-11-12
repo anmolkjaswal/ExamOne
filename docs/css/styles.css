@@ -1,0 +1,12 @@
+#wrapper{
+    width: 960px
+}
+
+.font{
+    font-family: "Helvetica Neue", serif;
+}
+
+.marginCenter{
+    margin-left: auto;
+    margin-right: auto;
+}
