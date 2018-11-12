@@ -10,3 +10,20 @@
     margin-left: auto;
     margin-right: auto;
 }
+
+#topSection{
+    height: 130px;
+    line-height: 130px;
+}
+
+#logo{
+    height: 130px;
+}
+
+.floatLeft{
+    float: left;
+}
+
+.logoSpace{
+    width: 300px;
+}
