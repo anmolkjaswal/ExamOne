@@ -2,15 +2,6 @@
     width: 960px
 }
 
-.font{
-    font-family: "Helvetica Neue", serif;
-}
-
-.marginCenter{
-    margin-left: auto;
-    margin-right: auto;
-}
-
 #topSection{
     height: 130px;
     line-height: 130px;
@@ -20,10 +11,44 @@
     height: 130px;
 }
 
+#menu{
+    margin: auto;
+}
+
+.font{
+    font-family: "Helvetica Neue", serif;
+}
+
+.marginCenter{
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .floatLeft{
     float: left;
 }
 
 .logoSpace{
     width: 300px;
+}
+
+.textRight{
+    text-align: right;
+}
+
+.menuWidth{
+    width: 630px;
+}
+
+.displayInline{
+    display: inline;
+}
+
+.menuRightPadding{
+    padding-right: 10px;
+}
+
+.clearMarginPadding{
+    margin: 0;
+    padding: 0;
 }
