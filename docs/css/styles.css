@@ -40,6 +40,10 @@
     line-height: 100px;
 }
 
+#leftPadding{
+    padding: 18px;
+}
+
 .footerEdit{
     text-align: center;
 }
@@ -71,6 +75,16 @@
 
 .menuWidth{
     width: 630px;
+}
+
+.midPageWidth{
+    width: 630px;
+}
+
+
+.fontEdit{
+    line-height: 25px;
+    font-size: 14px;
 }
 
 .displayInline{
@@ -108,4 +122,26 @@ h3{
 
 .marginClear{
     margin: 0px;
+}
+
+.midPageMargin{
+    margin-left: 31px;
+    margin-right: 31px;
+}
+
+.textCenter{
+    align: center;
+}
+
+.thinBorder{
+    border: 1px black solid;
+}
+
+.siteContent{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.siteText{
+    margin-left: 30px;
 }
