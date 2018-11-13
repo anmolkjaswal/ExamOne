@@ -35,6 +35,19 @@
     color: blue;
 }
 
+#footer{
+    height: 100px;
+    line-height: 100px;
+}
+
+.footerEdit{
+    text-align: center;
+}
+
+.footerColor{
+    color: white;
+}
+
 .font{
     font-family: "Helvetica Neue", serif;
 }
@@ -86,4 +99,13 @@
 .header2edit{
     margin: 0;
 
+}
+
+h3{
+    background-color: black;
+    color: white;
+}
+
+.marginClear{
+    margin: 0px;
 }
